@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dayana Ribeiro</h1>
+<h1 align="center">Hi ☺️✌️, I'm Dayana Ribeiro</h1>
 <h3 align="center">Sou uma estudante de Sistemas para Internet</h3>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/DayanaSRibeiro](https://github.com/DayanaSRibeiro)
