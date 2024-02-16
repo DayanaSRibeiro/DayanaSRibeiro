@@ -5,6 +5,8 @@
 
 - 📫 Como chegar até mim **dayanaslvrbr@gmail.com**
 
+<img align='right' src="https://media.giphy.com/media/vqJAJMr4klojK/giphy.gif" width="230">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dayana-ribeiro-411547210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayana-ribeiro-411547210" height="30" width="40" /></a>
